@@ -36,10 +36,11 @@ Meu nome é Vinicius Mariano, tenho 22 anos e sou natural de São Paulo. Atualme
 </div>
 
 ### Armazenamentos
-
+<div>
 <img src="https://img.shields.io/badge/MongoDB-555555?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=datagrip&logoColor=white" alt="SQL"/>
+</div>
 
 
 <div align="center">
